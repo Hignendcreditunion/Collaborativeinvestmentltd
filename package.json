@@ -1,0 +1,16 @@
+{
+  "name": "cil-website",
+  "version": "1.0.0",
+  "description": "Collaborative Investment Ltd Professional Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["investment", "business", "nigeria", "portfolio"],
+  "author": "Collaborative Investment Ltd",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

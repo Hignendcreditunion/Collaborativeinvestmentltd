@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: cil-website
+    env: node
+    plan: free
+    buildCommand: ""
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
